@@ -1,3 +1,3 @@
 # text_tools_project
 ## Topic
-**Comparing n-grams from left-wing and right-wing YouTube comments sections**
+**Comparing n-grams from YouTube comments sections based on channel political affiliation**
